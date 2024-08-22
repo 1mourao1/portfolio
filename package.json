@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://felipefontoura.github.io/react-portfolio/",
+  "homepage": "https://github.com/1mourao1/portfolio.git",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist -r git@github.com:1mourao1/portfolio.git",
